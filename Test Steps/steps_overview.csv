@@ -1,0 +1,58 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Explore Various Categories and Products on Amazon India,"Navigate through Amazon India's homepage to explore multiple categories including bestsellers, electronics, fashion, and more. Verify access to various product categories.","Step 1: Navigate to /
+Step 2: Click on link AllCategoriesMenu
+Step 3: Click on link BestSellers -> Navigate to page 'generic page#gp/*'
+Step 4: Click on link AmazonLaunchpad -> Navigate to page 'product listing#gp/*/*/ref=zg bs nav boost 0'
+Step 5: Click on link Body -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav boost 1'
+Step 6: Click on link Beauty -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav boost 2 10894224031'
+Step 7: Click on link Drugstore -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav boost 2 10894225031'
+Step 8: Click on link Fashion -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav boost 2 10894228031'
+Step 9: Click on link SportsOutdoors -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav boost 2 10894226031'
+Step 10: Click on link AnyDepartment -> Navigate to page 'product listing#gp/*/ref=zg bs unv boost 0 10894229031 4'
+Step 11: Click on link ClothingAccessories -> Navigate to page 'product listing#gp/*/*/ref=zg bs nav apparel 0'
+Step 12: Click on link Men -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav apparel 1'
+Step 13: Click on link Jeans -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav apparel 2 1968024031'
+Step 14: Click on link Shorts -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav apparel 2 1968076031'
+Step 15: Click on link SleepLoungeWear -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav apparel 2 1968097031'
+Step 16: Click on link SleepRobes -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav apparel 3 1968082031'
+Step 17: Click on link AnyDepartment2 -> Navigate to page 'product listing#gp/*/ref=zg bs unv apparel 0 1968083031 5'
+Step 18: Click on link GiftCards -> Navigate to page 'product listing#gp/*/*/ref=zg bs nav gift-cards 0'
+Step 19: Click on link GetWell -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav gift-cards 1'
+Step 20: Click on link Housewarming -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav gift-cards 1 92070981031'
+Step 21: Click on link Love -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav gift-cards 1 92070982031'
+Step 22: Click on link AnyDepartment3 -> Navigate to page 'product listing#gp/*/ref=zg bs unv gift-cards 0 92070980031 3'
+Step 23: Click on link Music -> Navigate to page 'product listing#gp/*/*/ref=zg bs nav music 0'
+Step 24: Click on link Bhangra -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav music 1'
+Step 25: Click on link DevotionalSpiritual -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav music 1 1375855031'
+Step 26: Click on link EasyListening -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav music 1 1375846031'
+Step 27: Click on link FilmSongs -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav music 1 1375742031'
+Step 28: Click on link Ghazals -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav music 1 1375845031'
+Step 29: Click on link Gospel -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav music 1 1375847031'
+Step 30: Click on link HardRockMetal -> Navigate to page 'product listing#gp/*/*/*/ref=zg bs nav music 1 1375759031'
+Step 31: Click on link AnyDepartment4 -> Navigate to page 'product listing#gp/*/ref=zg bs unv music 0 1375856031 3'
+Step 32: Click on link Jewellery -> Navigate to page 'product category#gp/*/*/ref=zg bs nav jewelry 0'
+Step 33: Click on link AnyDepartment -> Navigate to page 'product listing#gp/*/ref=zg bs unv jewelry 0 1'
+Step 34: Click on link MoversAndShakers -> Navigate to page 'product category#gp/*/ref=zg bs tab bsms'
+Step 35: Click on link CustomerService -> Navigate to page 'help page#gp/help/customer/display.html'
+Step 36: Click on link Electronics -> Navigate to page 'electronics category#*/*'
+Step 37: Click on link HomeKitchen -> Navigate to page 'home kitchen category#*/*'
+Step 38: Click on link AmazonPay -> Navigate to page 'ecommerce home#amazonpay/home'
+Step 39: Click on link Fresh -> Navigate to page 'ecommerce page#*/storefront'
+Step 40: Click on div PopoverContent
+Step 41: Click on link Skip
+Step 42: Click on link HygienePersonalCare -> Navigate to page 'category page#*/category'
+Step 43: Click on link foodCategories (DietNutrition)
+Step 44: Click on link foodCategories (EggsMeatFish)
+Step 45: Click on div SnacksBiscuits
+Step 46: Click on link foodCategories (OilMasalaSauces)
+Step 47: Click on link Mobiles -> Navigate to page 'mobile phones category#*/*'
+Step 48: Click on link Fashion -> Navigate to page 'generic browse page#gp/browse.html'
+Step 49: Click on link Computers -> Navigate to page 'computers accessories category#*/*'
+Step 50: Click on link Sell -> Navigate to page 'product page#*/*'
+Step 51: Click on link Fashion -> Navigate to page 'generic browse page#gp/browse.html'
+Step 52: Click on link AllCategoriesMenu
+Step 53: Click on link FireTV
+Step 54: Click on link AmazonPrimeVideo -> Navigate to page 'single character path#*'
+Step 55: Click on link Electronics -> Navigate to page 'electronics category#*/*'
+Step 56: Take full page screenshot as checkpoint
+",High,NEW
